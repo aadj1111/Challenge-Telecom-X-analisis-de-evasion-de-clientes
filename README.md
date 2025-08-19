@@ -24,9 +24,6 @@ Para dicho análisis de datos, se emplean herramientas de Python, tales como: *p
   * Interpretación de resultados y propuesta de acción.
 </p>
 
-<h2> Tecnologías y librerías utilizadas </h2>
-<p> 
-
 <h2>Construido con 🛠️ </h2>
 <p>
   
