@@ -88,4 +88,4 @@ Una vez analizados los datos, se efectúa la siguiente propuesta:
 </p> 
 
 <h2>Autor ✒️</h2>
-Andrés Duque
+Andrés Duque 
