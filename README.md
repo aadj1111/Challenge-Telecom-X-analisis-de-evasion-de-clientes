@@ -80,6 +80,7 @@ Incluye información sobre clientes de Telecom X, tales como:
 
 <h2> Propuestas </h2>
 <p> 
+  
 Una vez analizados los datos, se efectúa la siguiente propuesta:
   - Ofrecer bonificaciones o descuentos a clientes con cargos mensuales altos.
   - Implementar una estrategia de seguimiento para nuevos clientes.
